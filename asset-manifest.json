@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/daylight-artist/static/css/main.190967fc.chunk.css",
+    "main.js": "/daylight-artist/static/js/main.1ea4a5dc.chunk.js",
+    "main.js.map": "/daylight-artist/static/js/main.1ea4a5dc.chunk.js.map",
+    "runtime~main.js": "/daylight-artist/static/js/runtime~main.496c9ea8.js",
+    "runtime~main.js.map": "/daylight-artist/static/js/runtime~main.496c9ea8.js.map",
+    "static/css/2.18f57b05.chunk.css": "/daylight-artist/static/css/2.18f57b05.chunk.css",
+    "static/js/2.5c726de4.chunk.js": "/daylight-artist/static/js/2.5c726de4.chunk.js",
+    "static/js/2.5c726de4.chunk.js.map": "/daylight-artist/static/js/2.5c726de4.chunk.js.map",
+    "index.html": "/daylight-artist/index.html",
+    "precache-manifest.f443048222c0b7e7ec399fe8abea6299.js": "/daylight-artist/precache-manifest.f443048222c0b7e7ec399fe8abea6299.js",
+    "service-worker.js": "/daylight-artist/service-worker.js",
+    "static/css/2.18f57b05.chunk.css.map": "/daylight-artist/static/css/2.18f57b05.chunk.css.map",
+    "static/css/main.190967fc.chunk.css.map": "/daylight-artist/static/css/main.190967fc.chunk.css.map"
+  }
+}
